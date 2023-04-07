@@ -1,4 +1,4 @@
-# [Project 1: P&L from scratch](https://github.com/Inder-rana/course_projects/tree/main/Excel_P%26L)
+## [Project 1: P&L from scratch](https://github.com/Inder-rana/course_projects/tree/main/Excel_P%26L)
 ### [Excel | Charts]
 * Created a P&L statement from scratch along with some useful charts using raw financial data of a holding company.
 * This P&L statement can give insights to the business stakeholders regarding their company’s financial health.
