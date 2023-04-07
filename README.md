@@ -5,7 +5,7 @@
 * This P&L gives breakdown of various revenues, expenses and net income of multiple financial years.
 * The users of this P&L statement & its relevant charts, can help them make informed business decision regarding which unnecessary expenses to reduce.
 
-![PL](https://github.com/Inder-rana/Course_project_website/blob/main/images/image_P%26L_small.PNG)
+![PL](/images/image_P&L_small.PNG)
 
 
 
