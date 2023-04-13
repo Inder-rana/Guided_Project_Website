@@ -7,5 +7,11 @@
 
 ![PL](/images/image_P&L_small.PNG)
 
+## [Project 2: Real Estate Insights (Statistics)](https://github.com/Inder-rana/course_projects/tree/main/Statistics_real_estate)
+### [Excel | Statistics]
+* Created Frequency distribution tables and charts by applying statistical methods, after analyzing the dataset of a Real Estate company based in US.
+* Insights that I have got after analysis, can help this company run a successful marketing campaign. Marketing team can use these insights to improve their marketing results, target the right audience, save time and resources of the firm. 
+
+![](/images/image_location_small.PNG)
 
 
