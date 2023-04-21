@@ -14,4 +14,12 @@
 
 ![](/images/image_location_small.PNG)
 
+## [Project 3: Gender Gap insights](https://github.com/Inder-rana/course_projects/tree/main/Gender_gap_SQL_Tableau)
+### [SQL | Tableau]
+
+* Created a Tableau dashboard showing the breakdown of male and females employees based on their average annual salary, number of employees per department, number of managers per department and average employee salary since 1990.
+* The insights based on this tableau dashboard can help organization to improve their gender gap policies and encourage equal opportunity for everyone.
+
+![](/images/image_gender_gap_dashboard_small.PNG)
+
 
