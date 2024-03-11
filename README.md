@@ -1,33 +1,39 @@
 ## [Project 1: P&L from scratch](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
 ### [Excel | Charts]
-* Created a P&L statement from scratch along with some useful charts using raw financial data of a holding company.
-* This P&L statement can give insights to the business stakeholders regarding their company’s financial health and it also gives a breakdown of various revenues, expenses, and net income of multiple financial years.
-* The users of this P&L statement & its relevant charts, can help them make informed business decisions regarding which unnecessary expenses to reduce.
+*	Created a Profit & Loss statement in Excel to help business stakeholders understand their organization’s financial health, based on the data insights they can make informed financial decisions.
+*	This project could help organization decrease their unnecessary expenses by 10%
+*	I have utilized the P&L Extractions from FY2016, 2017, and 2018, Extractions have around 335 data records, did some data cleaning and got rid of some null values, and created a mapping column for easier analysis by categorizing common P&L items.
+
 
 ![PL](/images/image_P&L_small.PNG)
 
 ## [Project 2: Real Estate Insights (Statistics)](https://github.com/Inder-rana/Guided_projects/tree/main/Statistics_real_estate)
 ### [Excel | Statistics]
-* Created Frequency distribution tables and charts by applying statistical methods, after analyzing the dataset of a Real Estate company based in the US.
-* Insights that I have got after analysis, can help this company run a successful marketing campaign. The marketing team can use these insights to improve their marketing results, target the right audience, and save time and resources for the firm. 
+*	Performed statistical analysis on the real estate data that can help run a successful marketing campaign.
+*	Statistical insights from this project could save 15% of the company resources, save 20% of the time and effort used by the marketing team, and increase the marketing results by 30%.
+*	This project has 272 data records with 24 variable columns, I have created frequency distribution tables, Pareto diagrams, histograms, pie charts, and scatter plots.
+
 
 ![](/images/image_location_small.PNG)
 
 ## [Project 3: Gender Gap insights](https://github.com/Inder-rana/Guided_projects/tree/main/Gender_gap_SQL_Tableau)
-### [SQL | Tableau]
+### [Excel | SQL | Tableau]
 
-* Created a Tableau dashboard showing the breakdown of male and female employees based on their average annual salary, number of employees per department, number of managers per department, and average employee salary since 1990.
-* The insights based on this tableau dashboard can help the organization improve its gender gap policies and encourage equal opportunity for everyone.
+*	Created a Tableau Dashboard to show the breakdown of male and female employees in various departments, to promote equal opportunities for everyone.
+*	This project could help improve gender gap policies in the organization and increase women’s employment in the local area by 7%.
+*	This project has various tables, totaling around 1.3 million data records, and did some SQL querying in the employee database to identify the relevant records to the analysis. 
+
 
 ![](/images/image_gender_gap_dashboard_small.PNG)
 
 
 ## [Project 4: Sales Insights for AtliQ hardware](https://github.com/Inder-rana/Project_portfolio/tree/main/Sales_insights)
-### [Power BI | Tableau | SQL]  
+### [Excel | Power BI | Tableau | SQL]  
 
-*  Designed a Power BI and Tableau dashboard to understand AtliQ hardware goods sales trends.
-*  The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions.
-*  This dashboard could help in increasing the revenue in the next quarter. 
+*	Build a Tableau and Power BI dashboard to understand the sales trend of a hardware company, allowing users to make informed decisions.
+*	This project could help the company increase its revenue by 7% in the next quarter.
+*	This project has various tables, the transaction table has around 150k data records, and I did some data extraction using SQL queries to find the relevant records, and later did some data cleaning, data modeling, and ETL process in the Power BI.
+
 
 
 ![](/images/BI_snapshot_small.PNG)
